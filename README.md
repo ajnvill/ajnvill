@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Almia Josh Villaraiz</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate backend developer</h3>
 
 - 🔭 I’m currently working on my [capstone project](https://petconnect.pw/)
 
