@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Almia Josh Villaraiz</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on my [capstone project](https://github.com/ajnvill/my-petconnect)
+- 🔭 I’m currently working on my [capstone project](https://petconnect.pw/)
 
 - 🌱 I’m currently learning **JavaScript**
 
